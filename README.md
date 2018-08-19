@@ -18,3 +18,8 @@
 * use networkx to compute PageRank given edgelist.txt
 * generates ranke file filename=page_rank_score that is added to solr 
 
+### sample result for Lucene
+![lucene results](./img/lucene-example.png)
+
+### sample result for PageRank
+![pagerank results](./img/pg-example.png)
