@@ -12,8 +12,6 @@
 
 ### ExtractLinks.java
 * using jsoup library to create edgelist.txt that represents the web graph structure 
-* UrlToHtml_foxnews.csv is mapping between html filenames and their url
-* HTML_files is folder that contains the html files
 * code ref: from example code in assignment
 
 ### pg.py
